@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="VehicleSimulation.Objects.DrawableEntity">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\DrawableEntity.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAAAAgAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Objects.Terrain.Terrain">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Terrain\Terrain.cs</FileName>
+      <HashCode>AAAAAAAAAAAQAhAAAAAIAAoAAAAAEgBAAAAAAAAIAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Objects.Terrain.TerrainReader">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Terrain\TerrainReader.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Objects.Sky.Sky">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Sky\Sky.cs</FileName>
+      <HashCode>AAAAAAAAgAAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Objects.Sky.SkyReader">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Sky\SkyReader.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Objects.Entities.GrandMassiveMonster">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Entities\GrandMassiveMonster.cs</FileName>
+      <HashCode>gEABQACAACBhIwAgAAAAICAIAAAAEQAAAAAAAAApAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Objects.Entities.HarborBuoy">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Entities\HarborBuoy.cs</FileName>
+      <HashCode>gEABQACAACBhIwAgAAAAICAIAAAAEQAAAAAAAAApAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Objects.Entities.Tank">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Objects\Entities\Tank.cs</FileName>
+      <HashCode>gMABQACAACBhIwAgAAAEICAIAAAAEQABAAAAAACpAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,198 @@
+<Configuration>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <EditorManager>
+    <RecentFiles>
+      <File id="38A406B3-EB55-4DFC-BFFE-BAC2E65B9D7D/f:SkyProcessor.cs" caret="5531" scrollPosition="0|75" />
+      <File id="38A406B3-EB55-4DFC-BFFE-BAC2E65B9D7D/f:TerrainProcessor.cs" caret="7423" scrollPosition="0|104" />
+      <File id="38A406B3-EB55-4DFC-BFFE-BAC2E65B9D7D/f:TerrainContent.cs" caret="654" scrollPosition="0|0" />
+      <File id="38A406B3-EB55-4DFC-BFFE-BAC2E65B9D7D/f:SkyContent.cs" caret="571" scrollPosition="0|0" />
+      <File id="38A406B3-EB55-4DFC-BFFE-BAC2E65B9D7D/f:SkyWriter.cs" caret="573" scrollPosition="0|0" />
+      <File id="38A406B3-EB55-4DFC-BFFE-BAC2E65B9D7D/f:TerrainWriter.cs" caret="1054" scrollPosition="0|0" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/f:InputState.cs" caret="815" scrollPosition="0|13" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Objects/d:Entities/f:Tank.cs" caret="3758" scrollPosition="0|57" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:BackgroundScreen.cs" caret="0" scrollPosition="0|45" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:OptionsMenuScreen.cs" caret="426" scrollPosition="0|0" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:MainMenuScreen.cs" caret="0" scrollPosition="0|0" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/f:GameScreen.cs" caret="3185" scrollPosition="0|84" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:MenuScreen.cs" caret="5885" scrollPosition="0|129" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:GameplayScreen.cs" caret="5299" scrollPosition="0|12" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/f:Game.cs" caret="2387" scrollPosition="0|46" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/f:ScreenManager.cs" caret="6519" scrollPosition="0|33" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/f:VehicleSimulation.cs" caret="3887" scrollPosition="0|53" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:MessageBoxScreen.cs" caret="1666" scrollPosition="0|18" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:PauseMenuScreen.cs" caret="0" scrollPosition="0|39" />
+      <File id="1FF64052-32B8-4254-B0FE-D256946494ED/d:Screen/d:Screens/f:LoadingScreen.cs" caret="2944" scrollPosition="0|32" />
+    </RecentFiles>
+  </EditorManager>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="GraphicsDevice" priority="1" />
+      <Item value="IsFullScreen" priority="1" />
+      <Item value="PreparingDeviceSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.IGameComponent">
+      <Item value="Initialize" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameComponentCollection">
+      <Item value="Add" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Objects.Entities.Tank">
+      <Item value="Update" priority="0" />
+      <Item value="position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Model">
+      <Item value="Bones" priority="0" />
+      <Item value="Meshes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.ModelBoneCollection">
+      <Item value="[]" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.ModelMesh">
+      <Item value="Effects" priority="0" />
+      <Item value="BoundingSphere" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.ModelEffectCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="Clone" priority="0" />
+      <Item value="BoundingSphere" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.GraphicsDevice">
+      <Item value="SoftwareVertexProcessing" priority="1" />
+      <Item value="Present" priority="0" />
+      <Item value="Reset" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.PreparingDeviceSettingsEventArgs">
+      <Item value="GraphicsDeviceInformation" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceInformation">
+      <Item value="Adapter" priority="3" />
+      <Item value="DeviceType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.PresentationParameters">
+      <Item value="PresentOptions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.GraphicsAdapter">
+      <Item value="CurrentDisplayMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ContentPipelineExtension.TerrainContent">
+      <Item value="Model" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Objects.Terrain.Terrain">
+      <Item value="Draw" priority="0" />
+      <Item value="skyModel" priority="0" />
+      <Item value="model" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.Pipeline.Serialization.Compiler.ContentWriter">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Objects.Camera.CachingCamera">
+      <Item value="Update" priority="0" />
+      <Item value="UpdateCamera" priority="0" />
+      <Item value="ViewMatrix" priority="0" />
+      <Item value="ProjectionMatrix" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Objects.Sky.Sky">
+      <Item value="skyModel" priority="0" />
+      <Item value="skyTexture" priority="0" />
+      <Item value="Draw" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.KeyboardState">
+      <Item value="GetPressedKeys" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keys">
+      <Item value="Space" priority="0" />
+      <Item value="Down" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sign" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Objects.Entities.GrandMassiveMonster">
+      <Item value="Draw" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="Length" priority="0" />
+      <Item value="GraphicsDevice" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List&lt;Microsoft.Xna.Framework.BoundingSphere&gt;">
+      <Item value="ToArray" priority="0" />
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.BoundingSphere">
+      <Item value="Intersects" priority="0" />
+      <Item value="Center" priority="1" />
+      <Item value="Radius" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Objects.DrawableEntity">
+      <Item value="Intersects" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Audio">
+      <Item value="SoundBank" priority="0" />
+      <Item value="AudioCategory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Beep" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Physics.AudioManager.Cue3D">
+      <Item value="Cue" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Audio.Cue">
+      <Item value="Name" priority="1" />
+      <Item value="Stop" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.Physics.AudioManager">
+      <Item value="PlayBoom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VehicleSimulation.Screen">
+      <Item value="ScreenManager" priority="0" />
+      <Item value="Screens" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VehicleSimulation.VehicleSimulation">
+      <Item value="Run" priority="0" />
+      <Item value="Initialize" priority="0" />
+      <Item value="Update" priority="0" />
+      <Item value="Draw" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameComponent">
+      <Item value="Update" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector3">
+      <Item value="Z" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@VehicleSimulation.Screen.Screens">
+      <Item value="GameplayScreen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Game">
+      <Item value="GraphicsDevice" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

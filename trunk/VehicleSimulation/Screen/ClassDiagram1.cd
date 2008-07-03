@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="VehicleSimulation.Screen.GameScreen">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\GameScreen.cs</FileName>
+      <HashCode>AAwAEACAAARAAgAEEAIAAAAADAAAAA4AAgAGAEYIBAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.InputState">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\InputState.cs</FileName>
+      <HashCode>AAwAAUgAAAAAAACAQAAAQAAFIAAAAAEAACAAABAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.ScreenManager">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\ScreenManager.cs</FileName>
+      <HashCode>AAYAVEAgAAAgAwAAAAAAAAAAAAAAiBAERAAAgAACCEQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.BackgroundScreen">
+    <Position X="6.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\BackgroundScreen.cs</FileName>
+      <HashCode>AAQCEAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.GameplayScreen">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\GameplayScreen.cs</FileName>
+      <HashCode>AAYCEACAAAABAgAAAACAAAAAAAAAAAAAAAQAAAAAgAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.LoadingScreen">
+    <Position X="11.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\LoadingScreen.cs</FileName>
+      <HashCode>ABQAgAAAAAAAAgAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.MainMenuScreen">
+    <Position X="9.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\MainMenuScreen.cs</FileName>
+      <HashCode>AAAAAiAAAAAAAAAAAAAAAAAAAAAABAAAAAAAIAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.MenuEntry">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\MenuEntry.cs</FileName>
+      <HashCode>AAQAAAAAAAAAAgAAAAAABABAAAAAAAAIAAAACAQAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.MenuScreen">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\MenuScreen.cs</FileName>
+      <HashCode>AQQAACGAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.MessageBoxScreen">
+    <Position X="13.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\MessageBoxScreen.cs</FileName>
+      <HashCode>AAAAQQCAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.OptionsMenuScreen">
+    <Position X="12" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\OptionsMenuScreen.cs</FileName>
+      <HashCode>BBABAAAAAAAQAggAAAgAAAAAAAAAAAAAAAAAABIACAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="VehicleSimulation.Screen.Screens.OptionsMenuScreen.Ungulate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Screen\Screens\OptionsMenuScreen.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="VehicleSimulation.Screen.Screens.PauseMenuScreen">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\Screens\PauseMenuScreen.cs</FileName>
+      <HashCode>EAAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="VehicleSimulation.Screen.ScreenState">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screen\GameScreen.cs</FileName>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
